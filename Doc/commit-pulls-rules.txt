@@ -1,0 +1,11 @@
+0.000.01
+* 0.: Release
+* 000.: Feature
+* 01.: Bug Fix
+
+00.1.0.0.0.0.0.001
+* 00.1.: Version apendicie
+* 0.0.0.: PR/Review
+* 0.0.: Hotfixes
+* 001.: commits
+* .*.: Bug per commits
