@@ -1,8 +1,10 @@
 ## Ciclo de Trabalho
 Scrum + Kanban
 
-## DoR/DoD
-TBD
+## DoR
+
+
+## DoD
 
 ## PR/Reviews
 * Sistema de bombeiro com rodízio

@@ -14,7 +14,7 @@
 * **Philipe Gonçalves**
 
 ## Tema
-TBD
+Jogo Indie
 
 ## Escopo
 TBD
