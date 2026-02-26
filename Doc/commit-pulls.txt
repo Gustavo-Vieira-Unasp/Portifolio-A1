@@ -3,3 +3,4 @@ Version:
         -[ • Gustavo   ] 00.1.0.0.0.0.0.001    - (metrics, process, README creation)
         -[ • Gustavo   ] 00.1.0.0.0.0.0.002    - (backlog, stakeholders, requirements v.:1)
         -[ • Gustavo   ] 00.1.0.0.0.0.0.003    - (stakeholders, requirements v.:2)
+        -[ • Jenifer   ] 00.1.0.0.0.0.0.004    - (process review)
