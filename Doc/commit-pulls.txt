@@ -4,3 +4,4 @@ Version:
         -[ • Gustavo   ] 00.1.0.0.0.0.0.002    - (backlog, stakeholders, requirements v.:1)
         -[ • Gustavo   ] 00.1.0.0.0.0.0.003    - (stakeholders, requirements v.:2)
         -[ • Jenifer   ] 00.1.0.0.0.0.0.004    - (process review)
+        -[ • Philipe   ] 00.1.0.0.0.0.0.005    - (Analise de caso - RFC[2119])
